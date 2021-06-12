@@ -1,3 +1,7 @@
-.bg-greyish {
-    background-color: honeydew !important;
+.carousel-inner {
+    height: 90vh;
 }
+
+/* .data-img {
+    height: 500px;
+} */

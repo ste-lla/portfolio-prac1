@@ -2,6 +2,6 @@
     height: 90vh;
 }
 
-/* .data-img {
-    height: 500px;
-} */
+.navbar {
+    background-color: rgb(170, 188, 236) !important;
+}
